@@ -1,1 +1,20 @@
 /* write your override styles here */
+img[alt="Kitty 5"] {
+    border: none; /* Remove the border */
+    width: auto; /* Reset the width */
+  }
+/* cleanup.css */
+
+/* Override styles for images */
+img {
+    border: none; /* Remove borders from all images */
+    max-width: 100%; /* Ensure images are responsive */
+  }
+  
+  /* Override styles for specific elements */
+  #banner {
+    background-color: #fff; /* Override background color for banner */
+  }
+  
+  /* Add additional overrides as needed */
+    
